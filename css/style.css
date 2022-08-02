@@ -1,0 +1,23 @@
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: black 1px solid;
+}
+
+.mole {
+    background-image: url("https://toppng.com/uploads/preview/mole-11548527369ueebalnztl.png");
+    background-size: cover;
+
+}
+
+body {
+    background-color: aqua;
+}
